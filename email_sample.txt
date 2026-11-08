@@ -1,0 +1,26 @@
+From: iCloud <service@intlapple.com>
+To: Recipients <service@intlapple.com>
+Subject: Your Apple ID was used to sign in to iCloud via a web browser.
+Date: February 5, 2016 at 7:48:54 AM
+
+Dear Customer,
+
+Your Apple ID was used to sign in to iCloud via a web browser.
+
+Date and Time: February 04, 2016, 10:13 PM +10:00
+Browser: Firefox
+Operating System: Windows
+
+If the information above looks familiar, you can disregard this email.
+
+If you have not signed in to iCloud recently and believe someone may have accessed
+your account, go to Apple ID Login now and change your password as soon as possible.
+
+Apple Support
+
+Received:
+Return-Path:
+Authentication-Results:
+SPF:
+DKIM:
+DMARC:
